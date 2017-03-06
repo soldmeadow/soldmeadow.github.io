@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflections on EDUC5464 ICT Curriculum 1</title>
+    <link>https://soldmeadow.github.io/educ5464/reflections/index.xml</link>
+    <description>Recent content in Reflections on EDUC5464 ICT Curriculum 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>18819519@student.uwa.edu.au (Stephen Oldmeadow)</managingEditor>
+    <webMaster>18819519@student.uwa.edu.au (Stephen Oldmeadow)</webMaster>
+    <atom:link href="https://soldmeadow.github.io/educ5464/reflections/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://soldmeadow.github.io/educ5464/reflections/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>18819519@student.uwa.edu.au (Stephen Oldmeadow)</author>
+      <guid>https://soldmeadow.github.io/educ5464/reflections/games/</guid>
+      <description>&lt;p&gt;Testing
+Testing
+One
+Two
+Three&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
