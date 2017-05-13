@@ -16,52 +16,45 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>18819519@student.uwa.edu.au (Stephen Oldmeadow)</author>
       <guid>https://soldmeadow.github.io/educ5464/tools/git/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
+      <description>
 
-  {{ partial &#34;head.html&#34; . }}
+&lt;h1 id=&#34;github&#34;&gt;GitHub&lt;/h1&gt;
 
-  &lt;body&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/git.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-    {{ partial &#34;nav.html&#34; . }}
-&lt;!--
-    &lt;header class=&#34;header-section &#34;&gt;
-      &lt;div class=&#34;intro-header no-img&#34;&gt;
-        &lt;div class=&#34;container&#34;&gt;
-          &lt;div class=&#34;row&#34;&gt;
-            &lt;div class=&#34;col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1&#34;&gt;
-              &lt;div class=&#34;page-heading&#34;&gt;
-                       
-              &lt;/div&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/header&gt;
---&gt;   
-	&lt;script src=&#34;//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.9/p5.js&#34;&gt;&lt;/script&gt;
-	&lt;script src=&#34;../../doc/sketch.js&#34;&gt;&lt;/script&gt;
-    &lt;div id=&#34;wrap&#34; align=&#34;center&#34;&gt;
-      &lt;section id=&#34;about&#34;&gt;
-        &lt;div class=&#34;container&#34;&gt;
-        &lt;div class=&#34;avatar&#34;&gt;
-          &lt;img class=&#34;img-circle&#34; src=&#34;{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}&#34; alt=&#34;Responsive image&#34; width=&#34;75&#34;&gt;
-        &lt;/div&gt;
-        &lt;div style=&#34;width:50%;text-align:justify&#34;&gt;
-        &lt;p&gt;I&#39;m &lt;strong&gt;{{ .Site.Author.name }}&lt;/strong&gt;, a pre-service teacher studying at UWA.  This is my website for the unit &lt;a href=&#34;http://handbooks.uwa.edu.au/units/unitdetails?code=EDUC5464&#34;&gt; ICT Curriculum 1&lt;/a&gt;.&lt;/p&gt;
-        &lt;p&gt;Please read some of my &lt;a href=&#34;{{ .Site.BaseURL }}page/reflections/&#34;&gt; reflections&lt;/a&gt; on topics related to ICT and education, have a look at some &lt;a href=&#34;{{ .Site.BaseURL }}page/tools/&#34;&gt;tools&lt;/a&gt; that can be useful for teaching
-        or view my assessment &lt;a href=&#34;{{ .Site.BaseURL }}page/resources/&#34;&gt; resources&lt;/a&gt;.&lt;/p&gt;
-		&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/section&gt;
-    &lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; is a ostensibly an online repository for source code but a large community has grown up around it and it is arguably the de facto standard for hosting source code for open source projects.&lt;/p&gt;
 
+&lt;h3 id=&#34;pros&#34;&gt;Pros&lt;/h3&gt;
 
-    {{ partial &#34;footer.html&#34; . }}
+&lt;ul&gt;
+&lt;li&gt;Free for public repositories and students can get free private repositories.&lt;/li&gt;
+&lt;li&gt;Web based.&lt;/li&gt;
+&lt;li&gt;Largest repository of source code in the world, many great open source projects to learn and build from.&lt;/li&gt;
+&lt;/ul&gt;
 
-  &lt;/body&gt;
-&lt;/html&gt;
+&lt;h3 id=&#34;cons&#34;&gt;Cons&lt;/h3&gt;
 
+&lt;ul&gt;
+&lt;li&gt;Lots of jargon that needs to be learnt such as pushing, pulling, commits and branches.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-for&#34;&gt;Recommended For&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Students in vocational ICT courses.&lt;/li&gt;
+&lt;li&gt;Managing collaboration in software development projects where students are working as a group.&lt;/li&gt;
+&lt;li&gt;As a resource for source code to build upon or learn from.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;details&#34;&gt;Details&lt;/h3&gt;
+
+&lt;p&gt;Software development projects often involve many files with complex interdependencies between them.  The complexity of managing these files is increased when multiple developers are working on the project and multiple people may be modifying the same files.  Version control software arose to manage these complex interdependencies.  Git was developed as the version control software for the Linux open source project which is arguably the largest distributed software development project in the world with over 20 million lines of code and over 10,000 developers.&lt;/p&gt;
+
+&lt;p&gt;GitHub is an online website and community that hosts software projects using Git for version control.  In Git terminology a software project is stored in a repository and GitHub hosts these repositories.  GitHub added social networking features as well as other valuable features such as bug reporting and issue tracking.&lt;/p&gt;
+
+&lt;p&gt;Using GitHub and Git can initially seem daunting as there is a large amount of jargon that needs to be understood.  For example, you clone a repository, make changes, commit your changes, push them back to the repository and pull down other people&amp;rsquo;s changes.  However, many great GUI tools have been developed to help simplify working with Git and GitHub with many of them being free such as &lt;a href=&#34;https://desktop.github.com/&#34;&gt;GitHub Desktop&lt;/a&gt;.  Additionally, many integrated development tools have support for Git built in such as &lt;a href=&#34;https://developer.apple.com/support/xcode/&#34;&gt;Xcode&lt;/a&gt; which is provided free by Apple for developing software for their platforms.&lt;/p&gt;
+
+&lt;p&gt;GitHub is a great way for students to learn about online collaboration as required by the Digital Technologies Curriculum.  Even if students don&amp;rsquo;t use GitHub they should be aware of it and know how to download projects that are hosted on GitHub just because of the sheer number of projects on GitHub.&lt;/p&gt;
 </description>
     </item>
     
@@ -74,6 +67,54 @@
       <description>
 
 &lt;h1 id=&#34;minecraft&#34;&gt;Minecraft&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../img/minecraft.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://minecraft.net&#34;&gt;Minecraft&lt;/a&gt; is an open-world game with extensive options for modifying the game world.&lt;/p&gt;
+
+&lt;h3 id=&#34;pros&#34;&gt;Pros&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Popular with students.&lt;/li&gt;
+&lt;li&gt;Inexpensive.&lt;/li&gt;
+&lt;li&gt;Runs on a wide variety of platforms.&lt;/li&gt;
+&lt;li&gt;Allows multiplayer interaction.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;cons&#34;&gt;Cons&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Several different versions that aren&amp;rsquo;t all interoperable.&lt;/li&gt;
+&lt;li&gt;Different versions, vast functionality and constant evolution make it difficult to comprehend all the possibilities for using Minecraft in the classroom.&lt;/li&gt;
+&lt;li&gt;Seen as unfashionable by some students.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recommended-for&#34;&gt;Recommended For&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Teaching coding to students that are motivated by playing Minecraft.&lt;/li&gt;
+&lt;li&gt;Creating interactive, multiplayer simulations for teaching non ICT subjects such as science and geography.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;details&#34;&gt;Details&lt;/h3&gt;
+
+&lt;p&gt;On the surface Minecraft is a game but this description doesn&amp;rsquo;t really do justice to the diverse possibilities for using Minecraft in classrooms.  One of the biggest barriers Minecraft faces is getting people to understand what it is and what it can do because it can be and do so many different things.  At first glance Minecraft can appear to be simplistic as its graphics are composed of cubic blocks, however, Minecraft&amp;rsquo;s block based design allows every block in the game level to be modified which opens up huge possibilities for interacting with the game.&lt;/p&gt;
+
+&lt;p&gt;In addition to its open, modifiable nature Minecraft also offers several possibilities for programming behaviour within the game.  Firstly, Minecraft has a redstone subsystem that consists of several different block types that can be connected to form basic mechanisms.  The behaviour of redstone is very similar to electric circuits and it is possible to build logic gates such as AND and OR.  This has led to people building complex devices in Minecraft, such as calculators, purely from redstone components.&lt;/p&gt;
+
+&lt;p&gt;Another mechanism for programming Minecraft is commands and command blocks.  Minecraft offers a command line that can be used to execute rudimentary commands that modify the game environment such as changing the weather or moving a player to a certain location.  The command line behaves very similarly to operating system command line processors such as Unix shells.  The command line also has strict syntactic requirements, commands must be typed exactly and this is a great way to introduce students to the strict syntax requirements of general purpose programming languages.  In addition to the command line Minecraft has command blocks that can be placed in the game world and execute commands when the player interacts with them.  Using command blocks allows for an event driven programming model that would allow students to control behaviours within the game.&lt;/p&gt;
+
+&lt;p&gt;The original versions of Minecraft were written in Java which is an interpreted language.  This allowed people to reverse engineer the Minecraft code and introduce modifications.  A huge community grew up around Minecraft &amp;ldquo;mods&amp;rdquo; that altered the basic gameplay of Minecraft and to some extent created completely different games.  However, the &amp;ldquo;mod&amp;rdquo; scene operates in a morally grey area as it isn&amp;rsquo;t officially condoned by Microsoft yet it is arguably partly responsible for the huge success of Minecraft.  Using Java code and &amp;ldquo;mod&amp;rdquo; frameworks students could program Minecraft, however, the legal ramifications are not clear and it is probably best avoided in a school environment.  There are organisations offering classes in &amp;ldquo;modding&amp;rdquo; Minecraft during school holidays and students that have an interest could be directed to those.&lt;/p&gt;
+
+&lt;p&gt;After Microsoft acquired Minecraft in 2014 it set to work creating versions of Minecraft that were natively compiled and therefor ran faster than the interpreted Java versions.  However, the faster native versions are unable to be modified which has caused a fracture in the community with many people sticking with the older Java versions of Minecraft because of their ability to run &amp;ldquo;mods&amp;rdquo;.  In order to appeal to the &amp;ldquo;mod&amp;rdquo; market Microsoft has begun introducing methods for modifying Minecraft such as configuration files to alter behaviours and it just recently announced a Code Builder programming facility but this is limited to the Education version.&lt;/p&gt;
+
+&lt;p&gt;Whilst Minecraft is great for teaching computational thinking and coding to students that love Minecraft it is also being adopted for teaching outside of the ICT curriculum.  The &lt;a href=&#34;https://education.minecraft.net/class-resources/lessons/&#34;&gt;Minecraft Education&lt;/a&gt; site has a variety of lessons that have been created in areas such as maths, science and geography.  As an example, two science teachers in Perth produced a &lt;a href=&#34;https://openjournals.library.sydney.edu.au/index.php/CAL/article/view/10331&#34;&gt;paper&lt;/a&gt; that detailed their efforts to teach Earth science using Minecraft.  One of the lessons involved students virtually digging through various stratum the teachers had set up in the ground of the Minecraft world.  They reported high levels of engagement and considered the trial a success.&lt;/p&gt;
+
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;This video covers all the basic circuits and mechanisms that can be developed using redstone in Minecraft.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/zeddHbJLf1Y&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -126,7 +167,7 @@
 
 &lt;p&gt;On the downside, the type of project that can be developed with p5.js is limited.  For example, although games can be developed it is not recommended.  However, once students want to move to the next level they can easily transport their JavaScript to other frameworks such as &lt;a href=&#34;https://phaser.io/&#34;&gt;Phaser&lt;/a&gt; which is an HTML5 game framework that uses JavaScript as its programming language.&lt;/p&gt;
 
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
 
 &lt;p&gt;This is an example of what can be done using p5.js.  The example is taken from the openprocessing website.&lt;/p&gt;
 
@@ -185,7 +226,7 @@
 
 &lt;p&gt;The developers of Scratch have put considerable thought into keeping it simple but, unfortunately, this can cause limitations once students want to undertake more ambitious projects.  Often complex Scratch projects will have to resort to workarounds and poor practices to bypass limitations.  Once students get to the point that they are &amp;ldquo;fighting&amp;rdquo; with the limitations of Scratch I would recommend they move to a new environment such as p5.js.&lt;/p&gt;
 
-&lt;h2 id=&#34;example-bugs&#34;&gt;Example - &amp;ldquo;Bugs&amp;rdquo;&lt;/h2&gt;
+&lt;h3 id=&#34;example-bugs&#34;&gt;Example - &amp;ldquo;Bugs&amp;rdquo;&lt;/h3&gt;
 
 &lt;p&gt;This is an example of what can be done in Scratch, click on the green flag to run.  Note that you will require Flash support to be enabled in your browser to run the example.&lt;/p&gt;
 
@@ -229,26 +270,32 @@
 &lt;ul&gt;
 &lt;li&gt;Students with an interest in game development.&lt;/li&gt;
 &lt;li&gt;Year 9 and 10 advanced programming classes.&lt;/li&gt;
-&lt;li&gt;Year 11 and 12 students in vocational ICT streams.&lt;/li&gt;
+&lt;li&gt;Year 11 and 12 students in vocational ICT courses.&lt;/li&gt;
 &lt;li&gt;Introduction to 3D graphics concepts and 3D maths concepts.&lt;/li&gt;
 &lt;li&gt;Development of interactive teaching tools that utilise 3D graphics including virtual-reality and augmented-reality.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;details&#34;&gt;Details&lt;/h3&gt;
 
-&lt;p&gt;p5.js is part of the Processing family that aims to make creative coding accessible to artists, designers, educators and students.  p5.js has the additional goal of providing an environment that runs in modern web browsers with no additional requirements.  The concept of creative coding is somewhat nebulous but generally covers artistic endeavours that may or may not be interactive and often process images, sounds and video.&lt;/p&gt;
+&lt;p&gt;Unity is a game engine and integrated development environment that has the goal of &amp;ldquo;democratising game development&amp;rdquo;.  Whilst Unity is free for not for profit and education uses it is a commercial enterprise with payment required based on the annual revenue of the organisation using it.&lt;/p&gt;
 
-&lt;p&gt;p5.js is a great introduction to what the Australian Digital Technologies Curriculum describes as a general purpose programming language.  p5.js uses the JavaScript language which is an industry standard programming language that is part of the glue (along with HTML and CSS) that enables interactive web sites.  Whilst students will be introduced to JavaScript p5.js deliberately limits the scope to reduce the cognitive load.  Students can produce engaging, interactive programs with only a few lines of code.&lt;/p&gt;
+&lt;p&gt;Unity is an industry standard tool that is widely used in many well known products.  It is particularly strong in the mobile gaming and virtual reality markets.  It may be motivating for students to know they are learning to use the same tool that was used to make products that they use.&lt;/p&gt;
 
-&lt;p&gt;p5.js is free and open source.  As it is browser based it will run on any device that can run modern JavaScript including iPads and netbooks.  For development all that is required is a text editor, however, it would be recommended to introduce students to an Integrated Development Environment that provides scaffolding such as syntax highlighting and code completion.  A great option is Microsoft&amp;rsquo;s Visual Studio Code which is free and runs on Mac OS X and Windows.&lt;/p&gt;
+&lt;p&gt;Unity has a strong focus on education.  Unity provide many great learning resources for free on their web site.  Unity provides the Unity Educator Toolkit for free to teachers to assist them in developing secondary school curriculums that utilise Unity.  Unity has also recently introduced a certification process and students could potentially sit exams to get an industry accepted qualification.&lt;/p&gt;
 
-&lt;p&gt;On the downside, the type of project that can be developed with p5.js is limited.  For example, although games can be developed it is not recommended.  However, once students want to move to the next level they can easily transport their JavaScript to other frameworks such as &lt;a href=&#34;https://phaser.io/&#34;&gt;Phaser&lt;/a&gt; which is an HTML5 game framework that uses JavaScript as its programming language.&lt;/p&gt;
+&lt;p&gt;Whilst Unity is described as a game engine it can be used for many applications outside of gaming.  It is often used for architectural visualisation for example.  The school I am currently doing my practicum at built a 3d model of their school buildings in Unity and used that as a basis for students to build games around.  However, such a 3d model could also be incorporated into virtual-reality applications for the development of applications like a 3d school tour.&lt;/p&gt;
 
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;On the downside Unity requires moderately capable hardware for running the development environment.  The flexibility and scope of Unity mean that it can initially be overwhelming, however, it is possible to make meaningful progress by learning a small subset of its capabilities.  For example, many compelling projects can be developed with no or minimal coding.&lt;/p&gt;
 
-&lt;p&gt;This is an example of what can be done using Unity.  The example is taken from &lt;a href=&#34;http://dustyroom.com/colr/demo/&#34;&gt;http://dustyroom.com/colr/demo/&lt;/a&gt;.  Note that you will require a web browser with support for WebGL to view the demo (Chrome is fine).&lt;/p&gt;
+&lt;p&gt;For students that want to delve into coding Unity offers many possibilities.  It supports two scripting languages.  One is derived from JavaScript and offers a good path for students that have familiarity with that language.  The other scripting language is C# which is a modern object-oriented language on a par with Java and Switch.  Unity also allows development of extensions in C or C++ and has a shader programming language for low level development of programs that run on graphics processing units.&lt;/p&gt;
 
-&lt;iframe allowtransparency=&#34;true&#34; width=&#34;960&#34; height=&#34;640&#34; src=&#34;//dustyroom.com/colr/demo/&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Unity is a good choice for teaching coding to students that are motivated to learn how to develop games.  Unity is a standard tool for the &lt;a href=&#34;https://www.stemgames.org.au&#34;&gt;Australian STEM Video Games Challenge&lt;/a&gt; in the Year 9 to Year 12 category so that gives an indication of the age range that Unity is suitable for.&lt;/p&gt;
+
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;This video gives an overview of the features in the latest version of Unity.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/AJ6Mkx1KEns&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
