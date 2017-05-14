@@ -216,7 +216,7 @@
 
 &lt;p&gt;Scratch is a visual programming tool that was developed by the Lifelong Kindergarten Group which is part of the MIT Media Lab.  It can be seen as a spiritual successor to the Logo programming language that was developer by Seymour Papert to teach programming concepts to children.&lt;/p&gt;
 
-&lt;p&gt;Scratch is a fantastic entry point to introduce students to programming and it is widely used in schools and extra curricular programs such as CoderDojo.  Students can create a myriad of interactive projects such as games, animations, interactive movies and electronic cards.&lt;/p&gt;
+&lt;p&gt;Scratch is a fantastic entry point to introduce students to programming and it is widely used in schools and extra-curricular programs such as CoderDojo.  Students can create a myriad of interactive projects such as games, animations, interactive movies and electronic cards.&lt;/p&gt;
 
 &lt;p&gt;Scratch has a web based interface that requires Flash to run as well as a desktop version that can run on Mac OS X and Windows.  It does not require a lot of resources and will run comfortably on older hardware and limited devices such a netbooks.&lt;/p&gt;
 
@@ -279,7 +279,7 @@
 
 &lt;p&gt;Unity is a game engine and integrated development environment that has the goal of &amp;ldquo;democratising game development&amp;rdquo;.  Whilst Unity is free for not for profit and education uses it is a commercial enterprise with payment required based on the annual revenue of the organisation using it.&lt;/p&gt;
 
-&lt;p&gt;Unity is an industry standard tool that is widely used in many well known products.  It is particularly strong in the mobile gaming and virtual reality markets.  It may be motivating for students to know they are learning to use the same tool that was used to make products that they use.&lt;/p&gt;
+&lt;p&gt;Unity is an industry standard tool that is widely used in many well known products.  It is particularly strong in the mobile gaming and virtual-reality markets.  It may be motivating for students to know they are learning to use the same tool that was used to make products that they use.&lt;/p&gt;
 
 &lt;p&gt;Unity has a strong focus on education.  Unity provide many great learning resources for free on their web site.  Unity provides the Unity Educator Toolkit for free to teachers to assist them in developing secondary school curriculums that utilise Unity.  Unity has also recently introduced a certification process and students could potentially sit exams to get an industry accepted qualification.&lt;/p&gt;
 
@@ -287,7 +287,7 @@
 
 &lt;p&gt;On the downside Unity requires moderately capable hardware for running the development environment.  The flexibility and scope of Unity mean that it can initially be overwhelming, however, it is possible to make meaningful progress by learning a small subset of its capabilities.  For example, many compelling projects can be developed with no or minimal coding.&lt;/p&gt;
 
-&lt;p&gt;For students that want to delve into coding Unity offers many possibilities.  It supports two scripting languages.  One is derived from JavaScript and offers a good path for students that have familiarity with that language.  The other scripting language is C# which is a modern object-oriented language on a par with Java and Switch.  Unity also allows development of extensions in C or C++ and has a shader programming language for low level development of programs that run on graphics processing units.&lt;/p&gt;
+&lt;p&gt;For students that want to delve into coding Unity offers many possibilities.  It supports two scripting languages.  One is derived from JavaScript and offers a good path for students that have familiarity with that language.  The other scripting language is C# (pronounced C sharp) which is a modern object-oriented language on a par with Java and Swift.  Unity also allows development of extensions in C or C++ and has a shader programming language for low level development of programs that run on graphics processing units.&lt;/p&gt;
 
 &lt;p&gt;Unity is a good choice for teaching coding to students that are motivated to learn how to develop games.  Unity is a standard tool for the &lt;a href=&#34;https://www.stemgames.org.au&#34;&gt;Australian STEM Video Games Challenge&lt;/a&gt; in the Year 9 to Year 12 category so that gives an indication of the age range that Unity is suitable for.&lt;/p&gt;
 

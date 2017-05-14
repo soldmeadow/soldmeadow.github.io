@@ -26,17 +26,6 @@
     </item>
     
     <item>
-      <title>Soccer</title>
-      <link>https://soldmeadow.github.io/educ5464/reflections/games/</link>
-      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
-      <author>18819519@student.uwa.edu.au (Stephen Oldmeadow)</author>
-      <guid>https://soldmeadow.github.io/educ5464/reflections/games/</guid>
-      <description>&lt;p&gt;Testing one two three
-Hello&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Pirates arrrr</title>
       <link>https://soldmeadow.github.io/educ5464/post/2015-01-15-pirates/</link>
       <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
@@ -98,7 +87,7 @@ There is no easy way to see.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../../reflections/coding&#34;&gt;Coding as a Literacy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../reflections/games&#34;&gt;Games for Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../reflections/games&#34;&gt;Video Game Development for Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../../reflections/create_or_consume&#34;&gt;Creation vs Consumption&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -154,7 +143,7 @@ There is no easy way to see.&lt;/p&gt;
 
 &lt;p&gt;In the &lt;em&gt;NMC/CoSN Horizon Report: 2016 K-12&lt;/em&gt; Becker, Freeman, Giessinger Hall, Cummins and Yuhnke (2016) report that coding, or computer programming, is increasingly being adopted in school curriculums around the world in response to economic factors and the belief that coding can assist with the development of a raft of fluencies that are often described using the term &amp;lsquo;21st century skills&amp;rsquo;.  Becker et al (2016) see this trend increasing into the future.&lt;/p&gt;
 
-&lt;p&gt;In Australia factors such as our falling PISA ranking and the desire to transition our economy from its reliance on resources spurred moves towards creating an innovation mindset and a STEM focus in schools.  Consequently coding is an integral part of the new Digital Technologies curriculum currently being introduced in Australian schools (!ACARA ref!).  Additionally, within Western Australia the recently elected Premier Mark McGowan has &lt;a href=&#34;https://www.markmcgowan.com.au/news/science-and-coding-in-schools-to-create-jobs-for-the-future-1303&#34;&gt;pledged $2 million dollars&lt;/a&gt; to fund the integration of coding into the school curriculum.  In short, coding has already arrived in the Western Australian education system.&lt;/p&gt;
+&lt;p&gt;In Australia factors such as our falling PISA ranking and the desire to transition our economy from its reliance on resources spurred moves towards creating an innovation mindset and a STEM focus in schools.  Consequently coding is an integral part of the new Digital Technologies curriculum currently being introduced in Australian schools (ACARA, 2017).  Additionally, within Western Australia the recently elected Premier Mark McGowan has &lt;a href=&#34;https://www.markmcgowan.com.au/news/science-and-coding-in-schools-to-create-jobs-for-the-future-1303&#34;&gt;pledged $2 million dollars&lt;/a&gt; to fund the integration of coding into the school curriculum.  In short, coding has already arrived in the Western Australian education system.&lt;/p&gt;
 
 &lt;p&gt;As a pre-service ICT teacher who desires to teach coding this is an issue close to my heart.  I agree that coding can help develop 21st century skills but I believe it can be greatly beneficial to traditional skills as well and offers great possibilities when combined with other curriculum areas, particularly maths and science.  As far back as 1980 Seymour Papert wrote his seminal book Mindstorms where he argued for computers to be used as learning tools for children to become &amp;ldquo;builders of their own intellectual structures&amp;rdquo; (Papert, 1980).  Unfortunately, over time computer usage in schools evolved to something more mundane, far removed from what was imagined by Papert.  Coding in the curriculum may help unlock the true potential of computers for learning.&lt;/p&gt;
 
@@ -163,6 +152,8 @@ There is no easy way to see.&lt;/p&gt;
 &lt;p&gt;Whilst the introduction of coding into schools is exciting and offers many great possibilities we need to be clear on why we are doing it.  We are inevitably lead to the question of what is the purpose of education.  Is the role of schools to train students for future jobs?  If this is the reason for the introduction of coding then we need to be honest and realistic about future job prospects but hopefully coding in the curriculum can be justified on more than purely economic grounds.&lt;/p&gt;
 
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;ACARA. (2017). Digital Technologies.    Retrieved from &lt;a href=&#34;http://www.australiancurriculum.edu.au/technologies/digital-technologies/curriculum/f-10?layout=1&#34;&gt;http://www.australiancurriculum.edu.au/technologies/digital-technologies/curriculum/f-10?layout=1&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Adams Becker, S., Freeman, A., Giesinger Hall, C., Cummins, M.,
 and Yuhnke, B. (2016). &lt;em&gt;NMC/CoSN Horizon Report: 2016 K-12
@@ -183,6 +174,44 @@ Edition&lt;/em&gt;. Austin, Texas: The New Media Consortium.&lt;/p&gt;
       <description>
 
 &lt;h1 id=&#34;creation-vs-consumption&#34;&gt;Creation vs Consumption&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://soldmeadow.github.io/educ5464/reflections/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>18819519@student.uwa.edu.au (Stephen Oldmeadow)</author>
+      <guid>https://soldmeadow.github.io/educ5464/reflections/games/</guid>
+      <description>
+
+&lt;h1 id=&#34;video-game-development-for-learning&#34;&gt;Video Game Development for Learning&lt;/h1&gt;
+
+&lt;p&gt;Developing video games was my entry point into the world of computer programming and I have many fond high school memories of spending time in the computer lab with my friends developing and playing our games.  We never felt like we were learning but with hindsight informed by studying teaching I see we were immersed in a social constructivist learning experience that many teachers would love to be able to orchestrate for their students.  My high school programming career was played out against the back drop of the golden age of arcade video games and needless to say video games and the surrounding culture was a large preoccupation for myself and my friends.  Again, with hindsight, I see how my engagement and motivation to program computer games was driven by my interest in playing video games outside of school.  Developing video games in high school was such a profound and enjoyable experience for me that I want to provide that experience for my students.&lt;/p&gt;
+
+&lt;p&gt;In our present day video games are still a major preoccupation for adolescents.  Granic, Lobel, and Engels (2014) report 91% of children aged between 2 and 17 in the United States play video games.  This staggering statistic is partly driven by mobile devices with every mobile phone now capable of playing games that would have astounded my high school self.  Even without mobile gaming the world of video games is an important facet of teenage culture.  The Australian Professional Standards for Teachers impels teachers to “Know students” (AITSL, 2012) and it could be argued that understanding important elements of teenage culture such as video games and music is essential to understanding teenage students.  The standards also task teachers with delivering engaging lessons (AITSL, 2012) and it is well accepted that lessons tied to students’ interests that connect meaningfully to their lives will increase student engagement (McDonald, 2013).&lt;/p&gt;
+
+&lt;p&gt;With computer programming, or coding, now a part of the Australian curriculum (ACARA, 2017) developing video games provides a wonderful opportunity to teach students this skill in a way that is engaging to them.  Papert (1998) also saw engaging students in video game development as a powerful means to teach them coding skills but more importantly as a basis for teaching them about learning.  Papert (1998) envisaged a future where children would develop video games as readily as they draw pictures or write stories.&lt;/p&gt;
+
+&lt;p&gt;Video game development also provides a great opportunity to reinforce math concepts.  A common complaint of high school mathematics students is that they can see no use for the concepts they are learning (Ellenberg, 2015).  However, many mathematics concepts can be directly applied in video games, particularly for 3d games.  For example, many people struggle to see the point of complex numbers (a number that includes an imaginary component that is the seemingly impossible square root of a negative number), however, complex numbers form the basis of quaternions which are widely used for describing rotations in 3d games.&lt;/p&gt;
+
+&lt;p&gt;Upon my first day of practicum as a pre-service teacher I was given my mentor’s timetable and was greatly pleased to see Game Design classes peppered throughout the week.  I have only attended one Game Design class to date but I was overjoyed to see a class of students deeply engaged in creating games and enthusiastically demonstrating their creations to me.  I recently learnt about the Australian STEM Video Game Challenge which is a competition sponsored by ACER and encourages students to create and submit video games to the competition (Australian STEM Video Game Challenge, 2017) and will be encouraging my students to enter.  I now feel my dream to teach students video game development is within reach.&lt;/p&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;ACARA. (2017). Digital Technologies.    Retrieved from &lt;a href=&#34;http://www.australiancurriculum.edu.au/technologies/digital-technologies/curriculum/f-10?layout=1&#34;&gt;http://www.australiancurriculum.edu.au/technologies/digital-technologies/curriculum/f-10?layout=1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;AITSL. (2012). Australian Professional Standards for Teachers. Victoria: Author.&lt;/p&gt;
+
+&lt;p&gt;Australian STEM Video Game Challenge. (2017). Our Mission.    Retrieved from &lt;a href=&#34;https://www.stemgames.org.au/about/our-mission&#34;&gt;https://www.stemgames.org.au/about/our-mission&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ellenberg, J. (2015). &lt;em&gt;How not to be wrong: The power of mathematical thinking&lt;/em&gt;. Penguin.&lt;/p&gt;
+
+&lt;p&gt;Granic, I., Lobel, A., &amp;amp; Engels, R. C. (2014). The benefits of playing video games. &lt;em&gt;American Psychologist&lt;/em&gt;, 69(1), 66.&lt;/p&gt;
+
+&lt;p&gt;McDonald, T. (2013). &lt;em&gt;Classroom management: Engaging students in learning&lt;/em&gt;. Melbourne: Oxford University Press.&lt;/p&gt;
+
+&lt;p&gt;Papert, S. (1998). Does easy do it? Children, games, and learning. &lt;em&gt;Game developer magazine&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -392,7 +421,7 @@ Edition&lt;/em&gt;. Austin, Texas: The New Media Consortium.&lt;/p&gt;
 
 &lt;p&gt;Scratch is a visual programming tool that was developed by the Lifelong Kindergarten Group which is part of the MIT Media Lab.  It can be seen as a spiritual successor to the Logo programming language that was developer by Seymour Papert to teach programming concepts to children.&lt;/p&gt;
 
-&lt;p&gt;Scratch is a fantastic entry point to introduce students to programming and it is widely used in schools and extra curricular programs such as CoderDojo.  Students can create a myriad of interactive projects such as games, animations, interactive movies and electronic cards.&lt;/p&gt;
+&lt;p&gt;Scratch is a fantastic entry point to introduce students to programming and it is widely used in schools and extra-curricular programs such as CoderDojo.  Students can create a myriad of interactive projects such as games, animations, interactive movies and electronic cards.&lt;/p&gt;
 
 &lt;p&gt;Scratch has a web based interface that requires Flash to run as well as a desktop version that can run on Mac OS X and Windows.  It does not require a lot of resources and will run comfortably on older hardware and limited devices such a netbooks.&lt;/p&gt;
 
@@ -455,7 +484,7 @@ Edition&lt;/em&gt;. Austin, Texas: The New Media Consortium.&lt;/p&gt;
 
 &lt;p&gt;Unity is a game engine and integrated development environment that has the goal of &amp;ldquo;democratising game development&amp;rdquo;.  Whilst Unity is free for not for profit and education uses it is a commercial enterprise with payment required based on the annual revenue of the organisation using it.&lt;/p&gt;
 
-&lt;p&gt;Unity is an industry standard tool that is widely used in many well known products.  It is particularly strong in the mobile gaming and virtual reality markets.  It may be motivating for students to know they are learning to use the same tool that was used to make products that they use.&lt;/p&gt;
+&lt;p&gt;Unity is an industry standard tool that is widely used in many well known products.  It is particularly strong in the mobile gaming and virtual-reality markets.  It may be motivating for students to know they are learning to use the same tool that was used to make products that they use.&lt;/p&gt;
 
 &lt;p&gt;Unity has a strong focus on education.  Unity provide many great learning resources for free on their web site.  Unity provides the Unity Educator Toolkit for free to teachers to assist them in developing secondary school curriculums that utilise Unity.  Unity has also recently introduced a certification process and students could potentially sit exams to get an industry accepted qualification.&lt;/p&gt;
 
@@ -463,7 +492,7 @@ Edition&lt;/em&gt;. Austin, Texas: The New Media Consortium.&lt;/p&gt;
 
 &lt;p&gt;On the downside Unity requires moderately capable hardware for running the development environment.  The flexibility and scope of Unity mean that it can initially be overwhelming, however, it is possible to make meaningful progress by learning a small subset of its capabilities.  For example, many compelling projects can be developed with no or minimal coding.&lt;/p&gt;
 
-&lt;p&gt;For students that want to delve into coding Unity offers many possibilities.  It supports two scripting languages.  One is derived from JavaScript and offers a good path for students that have familiarity with that language.  The other scripting language is C# which is a modern object-oriented language on a par with Java and Switch.  Unity also allows development of extensions in C or C++ and has a shader programming language for low level development of programs that run on graphics processing units.&lt;/p&gt;
+&lt;p&gt;For students that want to delve into coding Unity offers many possibilities.  It supports two scripting languages.  One is derived from JavaScript and offers a good path for students that have familiarity with that language.  The other scripting language is C# (pronounced C sharp) which is a modern object-oriented language on a par with Java and Swift.  Unity also allows development of extensions in C or C++ and has a shader programming language for low level development of programs that run on graphics processing units.&lt;/p&gt;
 
 &lt;p&gt;Unity is a good choice for teaching coding to students that are motivated to learn how to develop games.  Unity is a standard tool for the &lt;a href=&#34;https://www.stemgames.org.au&#34;&gt;Australian STEM Video Games Challenge&lt;/a&gt; in the Year 9 to Year 12 category so that gives an indication of the age range that Unity is suitable for.&lt;/p&gt;
 

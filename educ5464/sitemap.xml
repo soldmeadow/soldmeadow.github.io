@@ -7,11 +7,6 @@
   </url>
   
   <url>
-    <loc>https://soldmeadow.github.io/educ5464/reflections/games/</loc>
-    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://soldmeadow.github.io/educ5464/post/2015-01-15-pirates/</loc>
     <lastmod>2015-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -43,6 +38,10 @@
   
   <url>
     <loc>https://soldmeadow.github.io/educ5464/reflections/create_or_consume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://soldmeadow.github.io/educ5464/reflections/games/</loc>
   </url>
   
   <url>
@@ -84,7 +83,6 @@
   
   <url>
     <loc>https://soldmeadow.github.io/educ5464/reflections/</loc>
-    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
